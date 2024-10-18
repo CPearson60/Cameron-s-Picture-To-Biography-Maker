@@ -1,5 +1,5 @@
 
-# Picture To Biography
+# Picture To Lifestlye 
 
 The goal of this project is to develop a program that can analyze a picture and extract information to deduce details about the individual’s lifestyle.
 
